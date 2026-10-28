@@ -40,11 +40,14 @@ Soy un profesional con perfil híbrido entre la ingeniería de software y el mar
 
 <div align="center">
 
-| Proyecto | Descripción Técnica | Demo / Código |
+| Proyecto | Descripción Técnica | Demo / Enlace |
 | :--- | :--- | :---: |
 | **⚙️ Gestion-360 ERP** | Arquitectura Full Stack desacoplada con React.js y Django API REST. | [Ver Repositorio](https://github.com/Samdersson/Gestion-360-ERP) |
 | **🏭 Planta de Beneficio (EVC)** | Panel de control industrial y trazabilidad de procesos en tiempo real. | [Ver Repositorio](https://github.com/Samdersson/planta-de-beneficio) |
+| **📋 Portafolio EVC** | Interfaz y presentación interactiva de soluciones industriales. | [Ver Demo](https://portafolioevc.netlify.app/) |
 | **📅 Sistema de Turnos** | Aplicación web para gestión y reserva automatizada de citas. | [Ver Repositorio](https://github.com/Samdersson/agendar_turnos) |
+| **🍽️ Menús Digitales (360 Digital)** | Catálogos interactivos optimizados para conversión y visualización móvil. | [Ver Demo](https://360digital.netlify.app/menus-digitales) |
+| **☕ Dulzura Mía** | Web interactiva para repostería y brunch con especialidades de café. | [Ver Demo](https://dulzuramia.netlify.app/) |
 | **🌱 EcoBiciGo** | Directorio local optimizado con rendimiento (*Core Web Vitals*). | [Ver Demo](https://ecobicigo.netlify.app/) |
 
 </div>
