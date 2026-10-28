@@ -1,37 +1,68 @@
-[# Hola, soy Samdersson Núñez 👋
+<div align="center">
 
-### Tecnólogo en Desarrollo de Software (Univalle) | Trafficker Digital & Full Stack Developer
-Especialista en el desarrollo de aplicaciones web de alto rendimiento y optimización de embudos de conversión (CRO). Combino la ingeniería de software con el marketing digital para crear soluciones tecnológicas eficientes que impulsan las ventas y mejoran la experiencia de usuario.
+  <!-- Animación de Bienvenida con Banner y Título Dinámico -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&height=60&lines=Hola%2C+soy+Samdersson+N%C3%BA%C3%B1ez+👋;Full+Stack+Developer+💻;Trafficker+Digital+%26+CRO+Specialist+🚀" alt="Typing SVG" />
 
----
+  <p><b>Tecnólogo en Desarrollo de Software (Univalle) | UI/UX & Performance Marketing</b></p>
 
-## 🚀 Stack Tecnológico
+  <!-- Botones de Enlace con Estilo -->
+  <p>
+    <a href="https://samdersson.netlify.app/"><img src="https://img.shields.io/badge/🌐_Portafolio_Web-00F2FE?style=for-the-badge&logoColor=white" alt="Portafolio"/></a>
+    <a href="mailto:san9639@gmail.com"><img src="https://img.shields.io/badge/✉️_Contacto_Directo-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+    <a href="https://github.com/Samdersson"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  </p>
 
-* **Frontend & Web:** HTML5, CSS3, JavaScript (ES6+), React.js, Responsive Design, Mobile-First, PWA.
-* **Backend & Bases de Datos:** Python, Django, PHP, Laravel, MySQL, Relational Databases.
-* **Herramientas & Entornos:** Git, GitHub, VS Code, Netlify, Vercel, Figma, Adobe Photoshop, CorelDRAW.
-* **Marketing & Performance:** Meta Ads, Google Ads, Google Tag Manager, Píxel de Meta, API de Conversiones (CAPI), Analítica Web.
+  <p><i>"Fusionando la ingeniería de software de alto rendimiento y el desarrollo web con estrategias de conversión para escalar negocios digitales."</i></p>
 
----
-
-## 💼 Proyectos Destacados en Producción
-
-* **[Portafolio Profesional](https://samdersson.netlify.app/)** — Sitio web personal interactivo con despliegue en producción y diseño *glassmorphism*[cite: 1].
-* **[Sistema ERP (Gestion-360)](https://github.com/Samdersson/Gestion-360-ERP)** — Arquitectura full-stack desacoplada utilizando React y Django para la gestión empresarial[cite: 1].
-* **[Sistema de Control Industrial (EVC)](https://github.com/Samdersson/planta-de-beneficio)** — Panel de control operativo y trazabilidad para optimización de procesos[cite: 1].
-* **[Plataforma Local EcoBiciGo](https://ecobicigo.netlify.app/)** — Directorio web interactivo desarrollado con HTML, CSS y JavaScript nativo[cite: 1].
-* **[Sistema de Agendamiento de Turnos](https://github.com/Samdersson/agendar_turnos)** — Aplicación web para reserva automatizada de citas y gestión de turnos de atención.
+</div>
 
 ---
 
-## 📈 ¿Cómo conecto el desarrollo con el negocio?
-* **Enfoque CRO y Rendimiento:** Desarrollo *landing pages* optimizadas para reducir tiempos de carga (*Core Web Vitals*) y maximizar la tasa de conversión en pauta pagada.
-* **Trazabilidad Técnica:** Configuración precisa de eventos de conversión y píxeles directamente desde el código fuente para evitar pérdidas de datos en campañas publicitarias.
+## 🛠️ Stack Tecnológico & Habilidades
+
+<div align="center">
+
+| Categoría | Tecnologías & Herramientas |
+| :---: | :--- |
+| **Frontend & Web** | <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Responsive-00C7B7?style=flat-square&logo=tailwindcss&logoColor=white"/> |
+| **Backend & Databases** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> |
+| **Diseño & UI/UX** | <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=black"/> <img src="https://img.shields.io/badge/CorelDRAW-FF69B4?style=flat-square&logoColor=white"/> |
+| **Growth & Performance** | <img src="https://img.shields.io/badge/Meta_Ads-0467DF?style=flat-square&logo=meta&logoColor=white"/> <img src="https://img.shields.io/badge/Google_Ads-4285F4?style=flat-square&logo=googleads&logoColor=white"/> <img src="https://img.shields.io/badge/CRO_%26_Analytics-FF8C00?style=flat-square"/> |
+
+</div>
 
 ---
 
-### 📫 ¿Hablamos?
-* **Portafolio:** [samdersson.netlify.app](https://samdersson.netlify.app/)
-* **LinkedIn:** [Samdersson Nuñez](https://linkedin.com/)
-* **Correo:** san9639@gmail.com
-](https://github.com/Erika000o)
+## 💎 Proyectos Destacados (Production Ready)
+
+<div align="center">
+
+| Proyecto | Descripción Técnica | Demo / Código |
+| :--- | :--- | :---: |
+| **⚙️ Gestion-360 ERP** | Arquitectura Full Stack desacoplada con React.js y Django API REST. | [Ver Repositorio](https://github.com/Samdersson/Gestion-360-ERP) |
+| **🏭 Planta de Beneficio (EVC)** | Panel de control industrial y trazabilidad de procesos en tiempo real. | [Ver Repositorio](https://github.com/Samdersson/planta-de-beneficio) |
+| **📅 Sistema de Turnos** | Aplicación web para gestión y reserva automatizada de citas. | [Ver Repositorio](https://github.com/Samdersson/agendar_turnos) |
+| **🌱 EcoBiciGo** | Directorio local optimizado con rendimiento (*Core Web Vitals*). | [Ver Demo](https://ecobicigo.netlify.app/) |
+
+</div>
+
+---
+
+## 📊 Estadísticas de Actividad en GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Samdersson&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samdersson&layout=compact&theme=tokyonight&hide_border=true&langs_count=7" alt="Top Languages" width="48%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samdersson&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="80%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <sub>✨ Desarrollado con código limpio por <b>Samdersson Núñez</b> • 2026 ✨</sub>
+</div>
