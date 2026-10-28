@@ -1,4 +1,4 @@
-# Hola, soy Samdersson Núñez 👋
+[# Hola, soy Samdersson Núñez 👋
 
 ### Tecnólogo en Desarrollo de Software (Univalle) | Trafficker Digital & Full Stack Developer
 Especialista en el desarrollo de aplicaciones web de alto rendimiento y optimización de embudos de conversión (CRO). Combino la ingeniería de software con el marketing digital para crear soluciones tecnológicas eficientes que impulsan las ventas y mejoran la experiencia de usuario.
@@ -34,3 +34,4 @@ Especialista en el desarrollo de aplicaciones web de alto rendimiento y optimiza
 * **Portafolio:** [samdersson.netlify.app](https://samdersson.netlify.app/)
 * **LinkedIn:** [Samdersson Nuñez](https://linkedin.com/)
 * **Correo:** san9639@gmail.com
+](https://github.com/Erika000o)
