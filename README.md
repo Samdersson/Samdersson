@@ -31,6 +31,6 @@ Especialista en el desarrollo de aplicaciones web de alto rendimiento y optimiza
 ---
 
 ### 📫 ¿Hablamos?
-* **Portafolio:** [samdersson.netlify.app](https://samdersson.netlify.app/)[cite: 1]
+* **Portafolio:** [samdersson.netlify.app](https://samdersson.netlify.app/)
 * **LinkedIn:** [Samdersson Nuñez](https://linkedin.com/)
 * **Correo:** san9639@gmail.com
